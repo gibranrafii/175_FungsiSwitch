@@ -38,12 +38,12 @@ int main()
 	{
 		system("CLS");
 		cout << "Menu Kalkulator Sederhana" << endl;
-		cout << "1.	Penjumlahan" << endl;
-		cout << "2.	Pengurangam" << endl;
-		cout << "3.	Perkalian" << endl;
-		cout << "4.	Pembagian" << endl;
+		cout << "1. Penjumlahan" << endl;
+		cout << "2. Pengurangam" << endl;
+		cout << "3. Perkalian" << endl;
+		cout << "4. Pembagian" << endl;
 		cout << "5. Keluar" << endl;
-		cout << "Masukkan Pilian : " << endl;
+		cout << "Masukkan Pilihan : " << endl;
 		cin >> pilihan;
 
 		switch (pilihan)
